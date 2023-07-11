@@ -5,12 +5,15 @@ name = "pypi"
 
 [packages]
 langchain = "*"
+streamlit = "*"
 black = "*"
+isort = "*"
 python-dotenv = "*"
 openai = "*"
 tiktoken = "*"
 pandas = "*"
 tabulate = "*"
+docarray = "*"
 
 [dev-packages]
 
