@@ -72,6 +72,7 @@ https://langchain-chat-with-csv-files.streamlit.app/
 ## Also check these out 👀
 - [Langchain chat with TXT file](https://github.com/Rohan-Jalil/langchain-chat-with-txt-files)
 - [Langchain chat with PDF file](https://github.com/Rohan-Jalil/langchain-chat-with-pdf-files)
+- [Langchain chat with Youtube Videos](https://github.com/Rohan-Jalil/langchain-chat-with-youtube-videos)
 
 ## Credits 🙌
 
